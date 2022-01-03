@@ -25,4 +25,4 @@ http://localhost:8080/login
 ```
 
 # Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT.
